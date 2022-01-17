@@ -25,7 +25,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 # .DS_Store
-.DS_Storee
+.DS_Store
 *.egg
 MANIFEST
 
