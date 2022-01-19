@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School_District_Analysis Provided By Danny Barto
 
 The additional school district analysis was commissioned due to suspicions that the reading and math grades for Thomas High School ninth graders have been modified. Our task was to replace the math and reading scores for Thomas High School ninth graders with NaNs and retain the completeness of the remainder of the data. After that we were asked to go back through the original school district analysis and report our findings.
 
